@@ -5,7 +5,7 @@
 const paolaOliveira = {
     Pronomes: ['ela', 'dela'],
     Origem: ['Atibaia-SP'],
-    Sobre: ['Psicóloca, mas atualmente estudante Front-end pela Laboratoria, da turma SAP009'],
+    Sobre: ['Psicóloga, mas atualmente estudante Front-end pela Laboratoria, da turma SAP009'],
     TechSkills: [
         'Aprendendo: Javascript',
         'CSS3',
