@@ -1,9 +1,5 @@
 ### Olá Rede, eu sou a Paola!
 
-<div style="float: right; margin: 10px; border-radius: 50%; overflow: hidden;">
-  <img src="perfil-readme.gif" width="200">
-</div>
-
 ##### Um pouco sobre mim:
 ``` javascript
 const paolaOliveira = {
