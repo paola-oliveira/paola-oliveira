@@ -1,11 +1,19 @@
 ### Olá Rede, eu sou a Paola!
 
-##### Um pouco sobre mim:
-``` javascript
+
+<img align='right' src="perfil.png" width="320px">
+ 
+<div align="left">
+  
+ ### **Um pouco sobre mim:** 
+
+```javascript
+
 const paolaOliveira = {
     Pronomes: ['ela', 'dela'],
     Origem: ['Atibaia-SP'],
-    Sobre: ['Psicóloga, mas atualmente estudante Front-end pela Laboratoria, da turma SAP009'],
+    Sobre: ['Psicóloga, 
+    mas atualmente estudante Front-end pela Laboratoria, da turma SAP009'],
     TechSkills: [
         'Aprendendo: Javascript',
         'CSS3',
@@ -23,4 +31,6 @@ const paolaOliveira = {
         'Metro Retro'
     ]
 }
-```
+
+``` 
+</div>
