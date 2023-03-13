@@ -1,4 +1,5 @@
-### Olá Rede, eu sou a Paola!
+### Olá Rede, eu sou a Paola! <img src="https://user-images.githubusercontent.com/113477520/224600389-a0f17d6f-04db-44be-8a47-44a7567b0aab.png" width=35px >
+"
 
 
 <img align='right' src="perfil.png" width="320px">
