@@ -8,8 +8,11 @@
 
 <h4>Conecte-se comigo 💻:</h3>
 <div>
-  <a href="(https://www.linkedin.com/in/paola-natalia-oliveira/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+  <a href="https://www.linkedin.com/in/paola-natalia-oliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
 
 <h3 align="center">Linguagens e Ferramentas 🔧:</h3>
 <div style="display: inline_block" align="center"><br>
