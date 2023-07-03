@@ -4,7 +4,7 @@
 
 - 🧠 Psicóloga. 
 - 💻 Em transição de carreira.
-- <img src="https://github.com/paola-oliveira/paola-oliveira/assets/113477520/b5889c97-b37b-487e-afea-7e725cbf143e" alt="Estudante de desenvolvimento Front-End na Laboratória Brasil" width="15px">   Estudante de desenvolvimento Front-End na Laboratória Brasil.
+- <img src="https://github.com/paola-oliveira/paola-oliveira/assets/113477520/b5889c97-b37b-487e-afea-7e725cbf143e" alt="Estudante de desenvolvimento Front-End na Laboratória Brasil" width="15px">   Desenvolvedora Web Front-End pela Laboratória Brasil.
 
 <h4>Conecte-se comigo 💻:</h3>
 <div>
